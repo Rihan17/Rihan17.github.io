@@ -1,0 +1,26 @@
+*{margin: 0;
+padding: 0;}
+
+div{
+    width: 20vw;
+    height: 20vh;
+    background-color: aqua;
+    float: left;
+    position: absolute;
+}
+ 
+.a{background-color: blue;
+right: 0;}
+
+.b{background-color: blueviolet;
+margin-top: 80vh;}
+
+.c{background-color: crimson;
+left: 40vw;
+margin-top: 40vh;}
+
+.d{background-color: chartreuse;
+right: 0;
+bottom: 0;}
+
+.e{background-color: darkgreen;}
